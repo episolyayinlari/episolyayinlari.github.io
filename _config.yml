@@ -29,6 +29,7 @@ github_username:  episolyayinlari
 
 # Build settings
 theme: minima
+remote_theme: arkadianriver/spectral
 plugins:
   - jekyll-feed
 
